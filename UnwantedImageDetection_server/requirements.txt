@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pycuda
+torch
+torchvision
+fastapi
+aiohttp
+uvicorn
+python-dotenv

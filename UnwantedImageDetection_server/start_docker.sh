@@ -1,0 +1,1 @@
+uvicorn server:app --host $SERVER_IP --port $SERVER_PORT --workers 1
